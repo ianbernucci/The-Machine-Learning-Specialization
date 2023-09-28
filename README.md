@@ -18,6 +18,7 @@ During the Machine Learning Specialization, on Coursera by Andrew Ng, I learned 
 • Build a deep reinforcement learning model.
 
 [1° course certificate- Supervised Machine Learning: Regression and Classification](https://coursera.org/share/4be9d06ba2970ec69f91eeb4543b59a8)
+![Certificate](https://raw.githubusercontent.com/ianbernucci/The-Machine-Learning-Specialization/main/certificate1.png?token=GHSAT0AAAAAACIB755ZCW3FHTLAD3CJVAS2ZIWAY7A)
 
 
 
